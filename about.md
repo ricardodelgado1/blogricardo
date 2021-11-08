@@ -3,8 +3,8 @@ title: About
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Hola mi nombre es Ricardo Delgado soy proramador <a rel="me" target="_blank" href="https://twitter.com/ricar_obando">Ricardo Delgado</a>.
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+Ofresco mis servicios de diseño y programacion <a href="https://github.com/ricardodelgado1">Github</a>
 
-(Change this by editing `about.md` file)
+(Gracias por seguirme `amigo`)
